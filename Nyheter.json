@@ -1,0 +1,16 @@
+[
+    {
+        "messageId": "2",
+        "message": "Nu släpps snart Min Krisberedskap 2.0!",
+        "symbol": "star.fill",
+        "symbolColor": "yellow",
+        "date": "2025-01-09T10:00:00Z"
+    },
+    {
+        "messageId": "1",
+        "message": "En bugg håller på att åtgärdas",
+        "symbol": "exclamationmark.triangle",
+        "symbolColor": "red",
+        "date": "2025-01-08T15:30:00Z"
+    }
+]
