@@ -1,0 +1,32 @@
+[
+    {
+        "messageId": "7",
+        "message": "Min Krisberedskap 2.05 ute nu! Ljust och mörkt läge är tillbaka, vilket väljs i inställningarna.",
+        "symbol": "info.circle",
+        "symbolColor": "blue",
+        "date": "2025-02-05"
+    },
+    {
+        "messageId": "6",
+        "message": "En uppdatering är på gång för att lösa problem med att appen kraschar vid tillägg och radering av varor för vissa iOS-versioner.",
+        "symbol": "info.circle",
+        "symbolColor": "blue",
+        "date": "2025-02-04"
+    },
+    {
+        "messageId": "5",
+        "message": "Gillar du appen? Gå gärna in på AppStore och lämna ett betyg!",
+        "symbol": "exclamationmark.circle",
+        "symbolColor": "blue",
+        "date": "2025-01-29"
+    },
+    {
+        "messageId": "3",
+        "message": "Min Krisberedskap 2.0 har nu släppts!",
+        "symbol": "star.fill",
+        "symbolColor": "yellow",
+        "date": "2025-01-27"
+    }
+    
+]
+
