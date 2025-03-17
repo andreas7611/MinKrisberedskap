@@ -1,0 +1,39 @@
+[
+    {
+        "messageId": "9",
+        "message": "En uppdatering som åtgärdar ett problem där fel språk visas i appen för vissa användare kommer inom kort!",
+        "symbol": "exclamationmark.circle",
+        "symbolColor": "yellow",
+        "date": "2025-03-17"
+    },
+    {
+        "messageId": "8",
+        "message": "Min Krisberedskap 2.07. Nu kan du ställa in separata tidsintervall för mat-, respektive vattenberedskap. En användarundersökning finns att svara på. Du hittar den högst upp på startsidan. ",
+        "symbol": "info.circle",
+        "symbolColor": "blue",
+        "date": "2025-03-15"
+    },
+    {
+        "messageId": "7",
+        "message": "Min Krisberedskap 2.06 ute nu! Ljust och mörkt läge är tillbaka, vilket väljs i inställningarna. Diverse buggfixar.",
+        "symbol": "info.circle",
+        "symbolColor": "blue",
+        "date": "2025-02-05"
+    },
+    {
+        "messageId": "5",
+        "message": "Gillar du appen? Gå gärna in på AppStore och lämna ett betyg!",
+        "symbol": "exclamationmark.circle",
+        "symbolColor": "blue",
+        "date": "2025-01-29"
+    },
+    {
+        "messageId": "3",
+        "message": "Min Krisberedskap 2.0 har nu släppts!",
+        "symbol": "star.fill",
+        "symbolColor": "yellow",
+        "date": "2025-01-27"
+    }
+    
+]
+
